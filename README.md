@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hey there 👋
 
-- 🔭 I’m currently working on k8s
+- 🔭 I’m a software engineer with 8+ years of hands-on experience in building and maintaining scalable web applications and cloud infrastructure. I enjoy building reliable, scalable systems using tools like Kubernetes, Docker, and AWS. I’ve worked on containerized banking platforms, built full-stack dashboards, and helped automate and monitor systems using modern DevOps tools.
+- **Tech Stack**: Kubernetes, Docker, AWS, Terraform, Jenkins, Prometheus, Grafana, React, Node.js, Python, Java, Spring Boot, MySQL
 
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvivektiwari&count_private=true&show_icons=true" />
