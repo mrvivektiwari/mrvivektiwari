@@ -88,11 +88,11 @@ Building reliable cloud infrastructure and automating deployments across AWS, GC
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrvivektiwari&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mrvivektiwari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvivektiwari&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvivektiwari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrvivektiwari&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvivektiwari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
